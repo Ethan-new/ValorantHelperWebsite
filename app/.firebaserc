@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "valoranthelper-ec65c": {
+      "hosting": {
+        "app": [
+          "valoranthelper-ec65c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "valoranthelper-ec65c"
+  }
+}

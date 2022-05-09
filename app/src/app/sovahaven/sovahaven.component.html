@@ -1,0 +1,14 @@
+<body>
+  <div class="card-columns">
+    <div class="card" *ngFor="let data of allData[0].data">
+      <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+        <iframe class="embed-responsive-item" [src]="data.cleanLink" allowfullscreen></iframe>
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">{{data.title}} </h5>
+        <p class="card-text">{{data.desc}}</p>
+      </div>
+    </div>
+  </div>
+</body> 
+

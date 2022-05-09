@@ -1,0 +1,46 @@
+[
+
+{
+    
+    "agent": "Sova",
+    "map":"Haven",
+    "data": [
+        {
+            "desc":"A dart usually used at the start of the round to detect enemies near A main",
+            "link":"https://www.youtube.com/embed/f4hwxGcFPOI",
+            "title":"[DEFENSE A] Info Deep A Main"
+        },
+        {
+            "desc":"A dart to use to get information on belt",
+            "link":"https://www.youtube.com/embed/er4ulgs8BoI",
+            "title":"[DEFENSE A] Info Belt"
+        },
+        {
+            "desc":"B dart to be used once attacks have planted the spike",
+            "link":"https://www.youtube.com/embed/gsNMPeiPdi4",
+            "title":"[DEFENSE B] Retake"
+        },
+        {
+            "desc":"A dart to be used when rushing A",
+            "link":"https://www.youtube.com/embed/EMBZIj0lKnQ",
+            "title":"[ATTACK A] Close Main"
+        },
+        {
+            "desc":"A dart to get info on A",
+            "link":"https://www.youtube.com/embed/L9Ff_ctZVdE",
+            "title":"[ATTACK A] Front of Site and Nest"
+        },
+        {
+            "desc":"A dart to get info on all of B site",
+            "link":"https://www.youtube.com/embed/V_eSaAgWHNY",
+            "title":"[ATTACK B] Site Info"
+        }
+
+        
+    ]
+    
+}
+
+
+
+]
