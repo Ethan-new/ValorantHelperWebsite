@@ -14,9 +14,11 @@
 
 body {
     background-color: #12475f !important;
-    height: 100vh !important;
-    height: 100% !important;
-    width: 100% !important;
+    position: absolute;
+    background-size: cover;
+    padding-bottom: 20px;
+    border: 1px solid red;
+
 }
 
 .card-body {

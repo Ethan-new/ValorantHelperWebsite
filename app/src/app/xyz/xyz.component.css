@@ -43,7 +43,7 @@ figure {
 body {
     background-color: #12475f !important;
     position: absolute;
-    height: 100vh !important;
+
     height: 100% !important;
     width: 100% !important;
 }
